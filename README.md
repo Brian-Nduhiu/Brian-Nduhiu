@@ -1,5 +1,16 @@
-### Hi there 👋
-##  [![My Skills](https://skillicons.dev/icons?i=vue,java,django,elixir,flask,spring&theme=light)](https://github.com/Brian-Nduhiu)
+
+<p align="center">Hi there 👋</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,java,django,elixir,flask,spring&theme=light" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/BrianNduhiu" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/responsivelyApp?color=26A0ED&label=Follow&logo=twitter&logoColor=white&style=flat" alt="Twitter">
+  </a>
+ </p>
+ 
 <!--
 **Brian-Nduhiu/Brian-Nduhiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
