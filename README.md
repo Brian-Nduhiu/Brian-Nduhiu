@@ -1,7 +1,7 @@
 
 <p align="center">Hi there 👋</p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Brian-Nduhiu">
     <img src="https://skillicons.dev/icons?i=vue,java,django,elixir,flask,spring&theme=light" />
   </a>
 </p>
