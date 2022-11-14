@@ -2,7 +2,7 @@
 <p align="center">Hi there 👋</p>
 <p align="center">
   <a href="https://github.com/Brian-Nduhiu">
-    <img src="https://skillicons.dev/icons?i=vue,java,django,elixir,flask,spring&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vue,java,django,elixir,flask,spring,python&theme=light" />
   </a>
 </p>
 <p align="center">
