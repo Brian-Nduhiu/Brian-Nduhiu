@@ -20,4 +20,4 @@ Deploying MEVN stack applications on cloud platforms such as AWS, Azure, and Goo
 In addition, I have extensive experience in product design, which enables me to approach development projects with a user-centric mindset. This means that I always keep the user in mind when designing and developing applications, which results in products that are easy to use, intuitive, and enjoyable.
 
 ## Contact Me 📧
-If you need a MEVN stack expert and product designer for your next project, feel free to contact me. You can reach me at briannduhiu@gmail.com or [LinkedIn](https://www.linkedin.com/in/brian-nduhiu-358b07121/), or check out my designs at [Dribbble]([https://www.linkedin.com/in/brian-nduhiu-358b07121/](https://dribbble.com/briannduhiu)) . I am always happy to discuss new opportunities and projects. 🤝
+If you need a MEVN stack expert and product designer for your next project, feel free to contact me. You can reach me at briannduhiu@gmail.com or [LinkedIn](https://www.linkedin.com/in/brian-nduhiu-358b07121/), or check out my amazing designs at [Dribbble](https://dribbble.com/briannduhiu) . I am always happy to discuss new opportunities and projects. 🤝
